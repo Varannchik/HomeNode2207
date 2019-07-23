@@ -1,0 +1,11 @@
+{
+  "name": "homenode2207",
+  "version": "1.0.0",
+  "description": "Date project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Anna",
+  "license": "ISC"
+}
